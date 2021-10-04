@@ -1,2 +1,2 @@
-Testing this repo.
-Forgot how to work with git.
+Testing this repo
+Forgot how to work with git
